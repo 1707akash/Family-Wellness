@@ -1,0 +1,51 @@
+
+
+img{
+    width: 60%;
+    height: 65vh;
+    margin-left:20%
+}
+
+.maroonDiv{
+    background-color: #991f48;
+    padding: 3rem 5rem;
+}
+.inner{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.inner h1{
+    font-weight: 200;
+    font-size: 2.25rem;
+}
+.inner p{
+    line-height: 1.5;
+    font-weight: 500;
+}
+.btnDiv{
+    padding-top: 2rem;
+}
+button{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding:1rem 1.5rem;
+    margin: 0 0.5rem;
+    font-weight: 600;
+}
+
+.details{
+    width: 60%;
+    margin: auto;
+    padding: 2.5rem 0;
+    line-height: 1.5;
+    color: #666;
+    text-align: center;
+}
+h3{
+    color: #991f48;
+    font-weight: 300;
+    font-size: 1.5rem;
+}

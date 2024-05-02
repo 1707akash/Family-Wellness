@@ -1,0 +1,23 @@
+
+
+.header{
+    width: 60%;
+    margin: 1rem auto;
+}
+.header h2{
+    font-size: 2.25em;
+    font-weight: 400;
+    color: #991f48;
+    margin-bottom: 12px;
+}
+.header button{
+    width: 20%;
+    height: 2.5rem;
+    border: none;
+    color: white;
+    background-color: #a4a09c;
+    /* padding-top: 4px; */
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 1.25rem;
+}
