@@ -27,7 +27,7 @@ img{
 .btnDiv{
     padding-top: 2rem;
 }
-button{
+.btnDiv button{
     background-color: transparent;
     border: 2px solid white;
     color: white;
